@@ -1,4 +1,4 @@
-name: test_lambda:972295139066:Infra_role
+name: test_lambda:972295139066:GHA-production-INF-Admin
 on:
 
  workflow_dispatch: 
